@@ -163,6 +163,11 @@ Pune Institute of Computer Technology, Pune.
 </div>
 </p>
 <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mansi-gundre-a6a722207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashashree-chandak-7a3798207" height="30" width="40" /></a>
+<a href="https://instagram.com/mansii.iii.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansii.iii.__" height="30" width="40" /></a>
+</p><br>
 <div align="center">
 <a href="https://github.com/mansi0829">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0829&hide=java,html&theme=onedark" />
