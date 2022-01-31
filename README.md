@@ -9,7 +9,7 @@ Pune Institute of Computer Technology, Pune.
 - 📫 How to reach me: **mansigundre1@gmail.com**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to listen Music and watch web series.
-
+<!-- 
 <h3 align="center"> 🔭 Tools and Technologies :computer: </h3>
 <p align="left">  <br>
 <div align="center">
@@ -176,4 +176,4 @@ Pune Institute of Computer Technology, Pune.
 <a href="https://github.com/mansi0829">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mansi0829&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
 </a>
-</div>
+</div> -->
