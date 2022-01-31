@@ -3,12 +3,8 @@
 I am Mansi Gundre currently pursuing computer engineering at
 Pune Institute of Computer Technology, Pune.
 
-- 🌱 I’m currently learning MERN Stack and Flutter .
-- 👯 I’m looking to collaborate on React and C++ open source projects
-- 💬 Ask me about HTML, CSS, Javascript, React, Tailwind CSS, Bootstrap.
 - 📫 How to reach me: **mansigundre1@gmail.com**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to listen Music and watch web series.
 
 <h3 align="center"> 🔭 Tools and Technologies :computer: </h3>
 <p align="left">  <br>
