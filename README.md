@@ -68,7 +68,7 @@ Pune Institute of Computer Technology, Pune.
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank">
+<!--   <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -99,7 +99,7 @@ Pune Institute of Computer Technology, Pune.
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
