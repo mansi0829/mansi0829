@@ -170,6 +170,6 @@ Pune Institute of Computer Technology, Pune.
 </a>
 <br><br>
 <a href="https://github.com/mansi0829">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mansi0829&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mansi0829&theme=onedark&count_private=true" />
 </a>
 </div>
