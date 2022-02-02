@@ -166,10 +166,10 @@ Pune Institute of Computer Technology, Pune.
 </p><br>
 <div align="center">
 <a href="https://github.com/mansi0829">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0829&hide=java,html&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0829&hide=java,html&theme=dark" />
 </a>
 <br><br>
 <a href="https://github.com/mansi0829">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mansi0829&theme=onedark&count_private=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mansi0829&theme=dark&count_private=true" />
 </a>
 </div>
