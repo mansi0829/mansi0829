@@ -10,8 +10,8 @@ I am Mansi Gundre currently pursuing computer engineering at
   
    <p align="center">
 <div>
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=mansi0829&show_icons=true&theme=radical">
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0829&hide=css,html&layout=compact">
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=mansi0829&show_icons=true&theme=dark">
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi0829&hide=css,html&layout=compact&theme=dark">
 </div>
 </p>
    
