@@ -5,7 +5,7 @@
 I am Mansi Gundre currently pursuing computer engineering at
 <a href="https://pict.edu/">Pune Institute of Computer Technology, Pune.</a>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mansi-gundre-a6a722207/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mansi-gundre/) 
 [<img src="https://img.shields.io/badge/-mansigundre-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:mansigundre1@@gmail.com) 
   
    <p align="center">
