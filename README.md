@@ -7,6 +7,7 @@ I am Mansi Gundre currently pursuing computer engineering at
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mansi-gundre/) 
 [<img src="https://img.shields.io/badge/-mansigundre-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:mansigundre1@@gmail.com) 
+[<img src="https://img.shields.io/badge/Portfolio-%241344B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mansigundre.xyz/) 
   
    <p align="center">
 <div>
